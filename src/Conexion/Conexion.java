@@ -8,7 +8,9 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 import javax.swing.JOptionPane;
 
-
+/*COMENTARIO PARA VER MI CONEXION EN GITHUB
+SOY azul
+*/
 public class Conexion {
     
     Connection conn = null;
